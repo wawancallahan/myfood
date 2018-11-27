@@ -85,7 +85,7 @@ int main()
 	switch (cinMenu) {
 		case 1:
 			
-			if (AntrianCount() <= 0) {
+			if (MakananCount() <= 0) {
 				cout << "Tambahkan Makanan terlebih Dahulu";
 				
 				getch();
